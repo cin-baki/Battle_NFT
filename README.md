@@ -1,4 +1,4 @@
-# Battle_NFT
+# Battle_NFT (If you want to see another project, you can check all of my reposity)
 ### This is the architecture of a battle nft game and smart contract with all functions needed (without body code).
 ### The crabmain.pdf is the high level architecture.
 ### The gameSmartContract is the smart contract diagram (Class Diagram).
